@@ -12,6 +12,7 @@
         "strict": true,
         "jsx": "React",
         "baseUrl": "src",
+        "pretty": true,
         "paths": {
             "views": [ "view/*" ],
             "data": [ "data/*" ],
